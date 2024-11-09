@@ -9,8 +9,11 @@ SIEM Alerts and Results Project:
  
 Azure Sentinel(SIEM) is connected to a live virtual machine, in which it is then acting as a honey pot. I was able to see live attacks (RDP Brute Force) from various places around the globe. Then I was able to use a formated PowerShell Script to find the attackers Geolocation, and datalize it into the Azure Sentintel Map. 
 >
-![VM event viewer alerts and details](https://github.com/user-attachments/assets/cdc358d7-8b7d-4442-9c27-a4db31ea28ad)
->
+-The following 2 pictures below is the Custom Security Log Code to develop the azure sentinel VM logs and results
+[customer security log code](https://github.com/user-attachments/assets/7153a5e5-6864-490c-a04d-8f2c28b91634)
+
+![custom security log code 2](https://github.com/user-attachments/assets/62770008-9cc2-4210-bb3a-0ce11041395f)
+
 
 
 
