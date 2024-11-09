@@ -14,7 +14,42 @@ Azure Sentinel(SIEM) is connected to a live virtual machine, in which it is then
 
 ![custom security log code 2](https://github.com/user-attachments/assets/62770008-9cc2-4210-bb3a-0ce11041395f)
 
+-The following 2 pictures are the VM event viewer setup: Which show the login patterns
 
+![VM_event viewer](https://github.com/user-attachments/assets/8ab0a7c1-a8fb-4140-bcac-ece36004cb6c)
+
+![VM event viewer alerts and details](https://github.com/user-attachments/assets/195bd3b9-d751-4bc6-911d-e2b46acb279e)
+
+The folliwng 4 pictures are on the Microsoft Sentinel page of the Scheduled Alerts for login: Medium to High depeding if activity is done by authorized user or not. The pcitures show the detailed info for each schedule login. 
+
+![1 scheduled alert and its tab info](https://github.com/user-attachments/assets/785dbc16-a64d-4de6-81ea-9815c3ded417)
+
+![2 Schedule alerts and tab info](https://github.com/user-attachments/assets/69d21089-f0ff-4c02-ab50-10aa80f60e4c)
+
+![3 schedule alerts and tab info](https://github.com/user-attachments/assets/c6528278-f26a-43fd-9a59-c64d2e78d248)
+
+![4 schedule alerts and login  of me](https://github.com/user-attachments/assets/e51adbbd-909a-4117-a5ca-f4e6c2e15cbf)
+
+The following picture shows the Medium Alert on sentinel which show the successful logins for myself
+
+![data of medium alert](https://github.com/user-attachments/assets/bd797ee1-3a96-4a11-99d7-6f941cda15fd)
+
+The following picture shows the High Alert, in which it detects attacks
+
+![Data of high alert](https://github.com/user-attachments/assets/7237c98d-a8eb-46f3-9f9c-f28ad542cc50)
+
+The following shows the Query Log Code on the Virtual Machine to set up the attacker log results
+
+![query log](https://github.com/user-attachments/assets/4f6c2e1e-88ca-43f7-9d2b-8156bc195ee5)
+
+The following is the results SIEM map of various place around world my Virtual Machine got attacked by.
+
+![SEIM_map](https://github.com/user-attachments/assets/54b8aa0d-8ff4-436c-ac7f-774ce0ad2f83)
+
+
+The following shows the results in the Virtual Machine of the directory of data logs and Geolocation of countries name that attacked my Virtual Machine. 
+
+![Logs_for vv Country hackers](https://github.com/user-attachments/assets/211cd990-6f80-4075-81e0-8bcbb10b6d88)
 
 
 
