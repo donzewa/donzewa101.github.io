@@ -109,4 +109,53 @@ Step 6: I named the server, installed active directory and create domain: config
 
 ![Screenshot 2024-11-09 190629](https://github.com/user-attachments/assets/1a6decbd-76d6-4e00-aa79-5ed6cebe210d)
 
+The Following shows How I configured the RAS/NAT: 
+
+![Screenshot 2024-11-09 190742](https://github.com/user-attachments/assets/da8d373d-d99a-460e-99bd-eaa4629b6196)
+
+![Screenshot 2024-11-09 190831](https://github.com/user-attachments/assets/5d3757c3-fdfa-4e85-bbe0-aa3b8a3043bd)
+
+![Screenshot 2024-11-09 190848](https://github.com/user-attachments/assets/26483aed-3678-4ca8-b7f2-5c3ba4034da3)
+
+![Screenshot 2024-11-09 190931](https://github.com/user-attachments/assets/be97754e-a335-4c97-ab94-65d9522dd08d)
+
+The following shows how my Server Dashboard: including all the roles and server groups I configured together. 
+
+![Screenshot 2024-11-09 190909](https://github.com/user-attachments/assets/3d59adc5-d154-421a-a226-344e0167e2b6)
+
+Step 7: I Installed DHCP on domain controller (for windows 10 to get automatic IP addressing)
+
+![Screenshot 2024-11-09 191024](https://github.com/user-attachments/assets/e688865c-282e-4af1-9059-50de286aa032)
+
+![Screenshot 2024-11-09 191120](https://github.com/user-attachments/assets/6d2d00a3-1d7b-41f5-bdc6-3b9667e12327)
+
+![Screenshot 2024-11-09 191148](https://github.com/user-attachments/assets/12ce1014-c9f6-4f32-bb26-1f1eec7f3986)
+
+
+![Screenshot 2024-11-09 191234](https://github.com/user-attachments/assets/6033ae6a-b2ac-4851-9e55-ef9842c45682)
+
+Step 8: On domain controller I ran a powershell script in order to automatically create 1,000 users on active directory
+
+The following 2 photos shows the file I used to house all the users and powershell script
+![Screenshot 2024-11-09 192659](https://github.com/user-attachments/assets/93ea6785-e90c-4839-bcff-5928da1f1d05)
+
+![Screenshot 2024-11-09 191455](https://github.com/user-attachments/assets/f36be074-9b9f-4ae7-9875-dc7f3e8ab12e)
+
+![Screenshot 2024-11-09 191548](https://github.com/user-attachments/assets/5f448517-b237-45f6-9496-fa8cb0250b12)
+
+![Screenshot 2024-11-09 191620](https://github.com/user-attachments/assets/097185f5-e572-4f8f-9acd-dc974c1540d6)
+
+![Screenshot 2024-11-09 191712](https://github.com/user-attachments/assets/d9a46a85-f108-4c1d-8170-5159f47e35e3)
+
+![Screenshot 2024-11-09 191835](https://github.com/user-attachments/assets/7b86c1bd-6bf6-44f4-ad60-160bfa8c9599)
+
+![Screenshot 2024-11-09 192011](https://github.com/user-attachments/assets/ec94b00e-98f8-4aeb-880b-860067afab55)
+
+Here is the Active Directory with usernames provided: 
+
+![Screenshot 2024-11-09 192028](https://github.com/user-attachments/assets/a02e7a9b-4a26-417c-b54b-2f145e1167f2)
+
+Step 10: I Created another virtual machine: by installing windows 10 on it. This virtual machine connected to private virtual network. I Named it client 1, joined it to the domain. And I log into it with domain account
+
+![Screenshot 2024-11-09 192147](https://github.com/user-attachments/assets/1a84a1bd-196d-42a6-9d43-c2aec3d8b49a)
 
