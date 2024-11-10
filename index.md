@@ -159,3 +159,11 @@ Step 10: I Created another virtual machine: by installing windows 10 on it. This
 
 ![Screenshot 2024-11-09 192147](https://github.com/user-attachments/assets/1a84a1bd-196d-42a6-9d43-c2aec3d8b49a)
 
+The following are the 3 virtual machines I created with details of it: 
+
+![client 1](https://github.com/user-attachments/assets/ae545e8d-f6a8-4466-ba9c-b9402737b6af)
+
+![DC](https://github.com/user-attachments/assets/ad3f8a39-aa44-4777-94a7-478c6c3329cb)
+
+![DC2](https://github.com/user-attachments/assets/2aafd5d4-5332-4db5-bb0c-35742b3d353f)
+
