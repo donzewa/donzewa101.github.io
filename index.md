@@ -64,6 +64,8 @@ Step 1: I Downloaded and installed Oracle Virtual Box: use to run my virtual mac
 
 ![Screenshot 2024-11-09 184939](https://github.com/user-attachments/assets/8fc76784-ec5d-48b1-9f90-3032b9f7aa02)
 
+![Screenshot 2024-11-09 185449](https://github.com/user-attachments/assets/7a2da910-3403-4e4f-8dc1-d123038c2ac2)
+
 
 Step 2: I Downloaded and installed Windows 10 ISO and Server 2019 ISO: these both used to install 2 separate virtual machines.
 
@@ -79,5 +81,14 @@ Step 4: I Gave 1st virtual machine 2 separate network adapter: 1st adapter conne
 
 ![Screenshot 2024-11-09 185308](https://github.com/user-attachments/assets/4c9449ea-7a1a-43a4-8f26-db74d01ea372)
 
+![Screenshot 2024-11-09 185352](https://github.com/user-attachments/assets/b3fd9816-1b29-4a91-8e96-60f0f5fc4cf6)
+
+Step 5: I Installed Server 2019: assign IP address for internal network, external network gets automatic IP addressing. 
+
+![Screenshot 2024-11-09 185539](https://github.com/user-attachments/assets/18e91775-c1e7-4375-8e7f-72299f2ffd02)
+
+![Screenshot 2024-11-09 190035](https://github.com/user-attachments/assets/bd2a18db-65a2-4b97-b645-85347e62a051)
+
+![Screenshot 2024-11-09 190120](https://github.com/user-attachments/assets/208fc3fd-af8f-4088-89c9-7ecad0f33433)
 
 
