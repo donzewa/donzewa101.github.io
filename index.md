@@ -91,4 +91,22 @@ Step 5: I Installed Server 2019: assign IP address for internal network, externa
 
 ![Screenshot 2024-11-09 190120](https://github.com/user-attachments/assets/208fc3fd-af8f-4088-89c9-7ecad0f33433)
 
+![Screenshot 2024-11-09 190153](https://github.com/user-attachments/assets/7b304703-e74f-4af3-827e-b9cc09a0730c)
+
+![Screenshot 2024-11-09 190235](https://github.com/user-attachments/assets/943ef033-dd5b-4885-adae-cf351320e422)
+
+![Screenshot 2024-11-09 190322](https://github.com/user-attachments/assets/d63e3563-6405-4808-a39b-83db682cc3e0)
+
+Step 6: I named the server, installed active directory and create domain: configure NAT and routing (so client on private network can reach the domain controller) **Following shows configuring the Active directory into VM and Domain name. 
+
+![Screenshot 2024-11-09 190400](https://github.com/user-attachments/assets/3c72f1d8-43d2-4851-ba36-667029a5f23d)
+
+![Screenshot 2024-11-09 190437](https://github.com/user-attachments/assets/2ade12ca-4fa9-4af9-a2d9-99403d892c0b)
+
+![Screenshot 2024-11-09 190543](https://github.com/user-attachments/assets/f5f1ea71-ec4f-4b06-b2a4-0208da9daf12)
+
+![Screenshot 2024-11-09 190605](https://github.com/user-attachments/assets/1891220a-1081-4fac-82d0-cd64ac7fa38b)
+
+![Screenshot 2024-11-09 190629](https://github.com/user-attachments/assets/1a6decbd-76d6-4e00-aa79-5ed6cebe210d)
+
 
