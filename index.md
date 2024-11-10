@@ -2,7 +2,7 @@ Donna's Projects
 
 
 
-
+Project #1
 SIEM Alerts and Results Project:
 
 
@@ -53,11 +53,27 @@ The following shows the results in the Virtual Machine of the directory of data 
 
 
 
-## Header 2
+Project #2
+Active Directory Project
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Basic Overview Chart
+
+![Map of Active Directory VM users set up](https://github.com/user-attachments/assets/73c2837b-c5b4-409b-b852-d8780db77acd)
+
+Step 1: I Downloaded and installed Oracle Virtual Box: use to run my virtual machine
+
+![Screenshot 2024-11-09 184939](https://github.com/user-attachments/assets/8fc76784-ec5d-48b1-9f90-3032b9f7aa02)
+
+
+Step 2: I Downloaded and installed Windows 10 ISO and Server 2019 ISO: these both used to install 2 separate virtual machines.
+
+![Screenshot 2024-11-09 185002](https://github.com/user-attachments/assets/7c9e758d-cfa4-4228-8940-4d8d612ca16e)
+
+![Screenshot 2024-11-09 185032](https://github.com/user-attachments/assets/2dd01646-2f89-4f40-8c70-74c5346653de)
+
+Step 3: I Createed 1st virtual machine(domain controller): house’s the active directory
+
+
 
 ### Header 3
 
